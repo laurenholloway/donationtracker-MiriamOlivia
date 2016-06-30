@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\bin\Debug\Day2Exercises.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\obj\Debug\Day2Exercises.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\bin\Debug\Day2Exercises.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\bin\Debug\Day2Exercises.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\obj\Debug\Day2Exercises.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day2Exercises\Day2Exercises\obj\Debug\Day2Exercises.pdb
